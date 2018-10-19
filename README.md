@@ -15,3 +15,6 @@ GET /igcinfo/api/igc/<id> gives you a url from the internal managerment.
 
 Link
 HEROKU LINK: http://fierce-taiga-69443.herokuapp.com/
+
+
+THe reason for low commits is that i got into some problems with my last github repo and had to make a new one
