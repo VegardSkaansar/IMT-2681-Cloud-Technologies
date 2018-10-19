@@ -17,4 +17,4 @@ Link
 HEROKU LINK: http://fierce-taiga-69443.herokuapp.com/
 
 
-THe reason for low commits is that i got into some problems with my last github repo and had to make a new one
+THe reason for low commits is that didnt add my code to any github before everything worked locally on my machine
