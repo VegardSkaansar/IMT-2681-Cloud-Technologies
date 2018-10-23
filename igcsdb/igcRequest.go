@@ -12,7 +12,7 @@ import (
 
 // GetRequest is giving back a json answer from requests
 func GetRequest(w http.ResponseWriter, r *http.Request) {
-	//http.Header.Add(w.Header(), "content-type", "application/json")
+
 	parts := strings.Split(r.URL.Path, "/")
 	// time when request happends
 
